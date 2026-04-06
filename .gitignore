@@ -1,1 +1,21 @@
+# Data files
 data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Virtual environments
+venv/
+env/
